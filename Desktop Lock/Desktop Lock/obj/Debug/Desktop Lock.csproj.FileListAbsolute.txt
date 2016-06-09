@@ -1,0 +1,35 @@
+F:\C#\Desktop Lock\Desktop Lock\bin\Debug\Desktop Lock.exe.config
+F:\C#\Desktop Lock\Desktop Lock\bin\Debug\Desktop Lock.exe
+F:\C#\Desktop Lock\Desktop Lock\bin\Debug\Desktop Lock.pdb
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Desktop Lock.csprojResolveAssemblyReference.cache
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\MainWindow.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\MainWindow.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\App.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Desktop Lock_MarkupCompile.cache
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Desktop Lock.g.resources
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Desktop_Lock.Properties.Resources.resources
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Desktop Lock.csproj.GenerateResource.Cache
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Desktop Lock.exe
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Desktop Lock.pdb
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\LockScreen.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\LockScreen.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Skin.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Skin.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\SetUp.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\SetUp.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\USBdrive.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\USBdrive.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Surface.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Surface.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\About.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\About.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\LockScreenKey.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\LockScreenKey.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\password.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\password.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Warning1.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Warning1.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Warning2.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Warning2.g.cs
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Timing.baml
+F:\C#\Desktop Lock\Desktop Lock\obj\Debug\Timing.g.cs

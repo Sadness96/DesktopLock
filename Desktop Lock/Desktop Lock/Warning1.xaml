@@ -1,0 +1,11 @@
+﻿<Window x:Class="Desktop_Lock.Warning1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Warning1" Height="180" Width="300" AllowsTransparency="True" WindowStyle="None" Background="Transparent" Loaded="Window_Loaded">
+    <Grid>
+        <Image x:Name="img" Source="/Image/back1.png" Margin="0,0,0,0" Height="180" Width="300" Opacity="1" MouseMove="img_MouseMove"/>
+        <Image x:Name="img1" Source="/Image/confirm.png" Margin="210,145,10,10" Height="25" Width="80" MouseDown="img1_MouseDown"/>
+        <Label x:Name="label1" Content="警告!" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" FontSize="24"/>
+        <Label x:Name="label2" Content="error" HorizontalAlignment="Left" Margin="29,68,0,0" VerticalAlignment="Top" Foreground="White" FontSize="24"/>
+    </Grid>
+</Window>

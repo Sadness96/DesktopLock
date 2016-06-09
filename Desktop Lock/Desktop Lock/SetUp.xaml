@@ -1,0 +1,21 @@
+﻿<Window x:Class="Desktop_Lock.SetUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SetUp" Height="300" Width="500" AllowsTransparency="True" WindowStyle="None" Background="Transparent" Closed="Window_Closed">
+    <Grid>
+        <Image x:Name="img" Source="/Image/back.png" Margin="0,0,0,0" Height="300" Width="500" Opacity="0.95" MouseMove="img_MouseMove"></Image>
+        <Image x:Name="img1" Source="/Image/confirm.png" Margin="280,248,140,28" Height="25" Width="80" MouseDown="img1_MouseDown"></Image>
+        <Image x:Name="img2" Source="/Image/cancel.png" Margin="390,248,30,27" Height="25" Width="80" MouseDown="img2_MouseDown"></Image>
+        <StackPanel Margin="265,25,-72,108">
+            <RadioButton x:Name="radio1" GroupName="x" Content=" 密码解锁" FontSize="26" Foreground="White" Margin="0,0,0,0" Checked="radio1_Checked"/>
+            <RadioButton x:Name="radio2" GroupName="x" Content=" 时间解锁" FontSize="26" Foreground="White" Margin="0,0,0,0" Checked="radio2_Checked"/>
+            <RadioButton x:Name="radio3" GroupName="x" Content=" U 盘解锁" FontSize="26" Foreground="White" Margin="0,0,0,0" Checked="radio3_Checked"/>
+        </StackPanel>
+        <Image x:Name="img3" Source="/Image/password.png" Margin="115,46,322,191"/>
+        <Image x:Name="img4" Source="/Image/greybars.png" Margin="33,140,30,159" Height="1" Width="437"></Image>
+        <Label x:Name="libel1" Content="使用上次锁屏密码解锁:" HorizontalAlignment="Left" Margin="53,153,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+        <Label x:Name="libel2" Content="非正常关闭开机自启动:" HorizontalAlignment="Left" Margin="53,193,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+        <Image x:Name="img5" Source="/Image/off.png" Margin="343,156,87,113" MouseDown="img5_MouseDown"></Image>
+        <Image x:Name="img6" Source="/Image/off.png" Margin="343,197,87,72" MouseDown="img6_MouseDown"></Image>
+    </Grid>
+</Window>
